@@ -5,3 +5,5 @@ A Fast Density Peaks Clustering Method with Auto-select Cluster Centers
 
 
 ".txt" is synthetic data.
+
+"GDPC.pdf" is article file.
